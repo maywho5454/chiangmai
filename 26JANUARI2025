@@ -5008,12 +5008,8 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1
-http://xtv.ooo:8080/359052742/470428329/350972
-
-===
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎INDOSIAR" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BRI LIGA 1",INDOSIAR (Bola)
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+#EXTINF:-1  tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BRI LIGA 1",INDOSIAR (Bola)
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 
 ===
 
